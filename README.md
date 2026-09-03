@@ -1,6 +1,7 @@
 # Facial wrinkle ratio (%) calculation
 Calculate the wrinkle ratio (%) for 12 facial sub-regions from the face image and the corresponding wrinkle image.
-<img width="332" height="638" alt="Image" src="https://github.com/user-attachments/assets/795a4fb1-8299-48e6-80a1-57e1ee3c11ee" />
+<img width="332" height="455" alt="facial_wrinkle_ratio_calculation_brief" src="https://github.com/user-attachments/assets/278cb1a1-6249-4e86-9403-9bf3b1180654" />
+
 
 
 # Usage
