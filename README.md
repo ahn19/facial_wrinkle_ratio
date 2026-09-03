@@ -7,6 +7,7 @@ Calculate the wrinkle ratio (%) for 12 facial sub-regions from the face image an
 Run <kbd> face2age_20260826_wrinkle_region_analysis_spline_openVer_en_1.py</kbd>.
 
 Input: Face image, corresponding wrinkle image
+
 Output: Face wrinkle ratio (%) file (.csv)
 
 
