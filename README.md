@@ -9,4 +9,5 @@ Run <kbd> face2age_20260826_wrinkle_region_analysis_spline_openVer_en_1.py</kbd>
 
 # Facial landmarks detection
 Seven virtual landmarks are added to the 468 landmarks provided by Google MediaPipe Face Mesh, bringing the total to 475 landmarks.
-<img width="960" height="527" alt="forehead_virtual_landmarks_generation_1" src="https://github.com/user-attachments/assets/3a10c286-e6ee-4a8a-a651-1b5b2687270d" />
+<img width="480" height="264" alt="forehead_virtual_landmarks_generation_1_qsize" src="https://github.com/user-attachments/assets/ef777d02-2210-4ae5-bc4a-d0a17f5f523f" />
+
