@@ -22,7 +22,5 @@ Twelve regions prone to wrinkle formation were extracted using these facial land
 
 # Facial wrinkle ratio calculation
 The facial wrinkle ratio for each sub-region was calculated by dividing the number of wrinkle pixels within that sub-region by the total number of pixels in the whole facial region, then multiplying by 100 to express the result as a percentage.
-<img width="400" height="253" alt="The_whole-face_region_and_12_sub-regions_small" src="https://github.com/user-attachments/assets/7adb1870-8d43-4c9f-902e-7c3f0f845ebb" />
-
 
 The facial wrinkle ratio results are output as a CSV file.
